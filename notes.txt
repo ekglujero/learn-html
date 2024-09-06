@@ -1,0 +1,9 @@
+html elements/tags
+html - document type/ images
+html - website structure
+style - read from top to bottom, last read applies
+css - styling website
+css - selector for class name "." can use for multiple elements.
+	- selector for id "#". id is use only once. 
+sublime - code editor
+VScode -code editor
