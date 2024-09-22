@@ -1,0 +1,17 @@
+body {
+	margin: 10px;
+}
+
+.product {
+
+}
+
+a[href="https://google.com"] 
+{
+	color: orange;
+}
+
+a[href*="facebook"] 
+{
+	color: red;
+}
